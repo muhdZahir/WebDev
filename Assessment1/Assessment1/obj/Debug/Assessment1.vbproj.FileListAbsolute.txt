@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Users\Admin\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\Admin\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\Admin\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.xml
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.CalculatorForm.resources
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.Resources.resources
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.xml
+C:\Users\Admin\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
