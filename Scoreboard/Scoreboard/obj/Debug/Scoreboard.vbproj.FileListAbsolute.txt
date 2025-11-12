@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\bin\Debug\Scoreboard.exe.config
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\bin\Debug\Scoreboard.exe
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\bin\Debug\Scoreboard.pdb
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\bin\Debug\Scoreboard.xml
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.ScoreboardSystem.resources
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.Resources.resources
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.exe
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.xml
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.pdb
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.FormPoint.resources
+C:\Users\Admin\source\repos\Scoreboard\Scoreboard\obj\Debug\Scoreboard.FrmState.resources
