@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\bin\Debug\netcoreapp3.1\SimpleUI.exe
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\bin\Debug\netcoreapp3.1\SimpleUI.deps.json
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\bin\Debug\netcoreapp3.1\SimpleUI.runtimeconfig.json
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\bin\Debug\netcoreapp3.1\SimpleUI.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\bin\Debug\netcoreapp3.1\SimpleUI.dll
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\bin\Debug\netcoreapp3.1\SimpleUI.pdb
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.AssemblyInfo.vb
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.dll
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.pdb
+C:\Users\Admin\source\repos\SimpleUI\SimpleUI\obj\Debug\netcoreapp3.1\SimpleUI.genruntimeconfig.cache
